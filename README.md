@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rvaziri
-- 👀 I’m interested in machine learning and deep learning
-- 🌱 I’m currently learning computer science
+<!---- 👀 I’m interested in machine learning and deep learning
+- 🌱 Currently learning computer science --->
 - 📫 You can reach me via rezavnejad@gmail.com
 
 <!---
